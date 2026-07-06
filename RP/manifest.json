@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "JJK: Sorcery Awakening RP",
+    "description": "Jujutsu Kaisen Bedrock Add-On - Resource Pack",
+    "uuid": "42ec24c7-390b-4efc-b86e-6e662fec96c7",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 21, 32]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "cddcc609-66c2-48d4-9710-47e60cb38f10",
+      "version": [0, 1, 0]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "JJK: Sorcery Awakening BP",
+    "description": "Jujutsu Kaisen Bedrock Add-On - Behavior Pack",
+    "uuid": "471a1458-1202-42f8-ada4-b10b80e5fdee",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 21, 32]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "2f7da0ee-1db4-43c7-9e32-33af725a1206",
+      "version": [0, 1, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.7.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    }
+  ]
+}
