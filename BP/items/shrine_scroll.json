@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jjk:shrine_scroll",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": "shrine_scroll",
+      "minecraft:display_name": {
+        "value": "item.jjk.shrine_scroll.name"
+      },
+      "minecraft:rarity": "legendary",
+      "minecraft:lore": [
+        "item.jjk.shrine_scroll.lore1",
+        "item.jjk.shrine_scroll.lore2"
+      ]
+    }
+  }
+}

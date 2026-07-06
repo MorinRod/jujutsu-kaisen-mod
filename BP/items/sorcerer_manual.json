@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jjk:sorcerer_manual",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": "sorcerer_manual",
+      "minecraft:display_name": {
+        "value": "item.jjk.sorcerer_manual.name"
+      },
+      "minecraft:rarity": "rare",
+      "minecraft:lore": [
+        "item.jjk.sorcerer_manual.lore1",
+        "item.jjk.sorcerer_manual.lore2"
+      ]
+    }
+  }
+}

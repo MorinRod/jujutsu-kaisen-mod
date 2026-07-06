@@ -1,0 +1,43 @@
+item.jjk.sorcerer_manual.name=Sorcerer Manual
+item.jjk.sorcerer_manual.lore1=An instructional manual for newly awakened sorcerers.
+item.jjk.sorcerer_manual.lore2=Use it to view your technique, energy, rank, and abilities.
+
+item.jjk.limitless_scroll.name=Limitless Scroll
+item.jjk.limitless_scroll.lore1=Contains the secrets of the Limitless technique.
+item.jjk.limitless_scroll.lore2=Awakens Infinity, Blue, Red, and far greater power.
+
+item.jjk.shrine_scroll.name=Shrine Scroll
+item.jjk.shrine_scroll.lore1=A cursed scroll infused with Sukuna's slashing power.
+item.jjk.shrine_scroll.lore2=Awakens Cleave, Dismantle, and Shrine-based techniques.
+
+item.jjk.ten_shadows_scroll.name=Ten Shadows Scroll
+item.jjk.ten_shadows_scroll.lore1=A shadow-bound scroll from the Zenin technique line.
+item.jjk.ten_shadows_scroll.lore2=Awakens shikigami summoning and shadow techniques.
+
+item.jjk.blood_manipulation_scroll.name=Blood Manipulation Scroll
+item.jjk.blood_manipulation_scroll.lore1=An inherited scroll of cursed blood control.
+item.jjk.blood_manipulation_scroll.lore2=Awakens Piercing Blood and advanced blood techniques.
+
+item.jjk.idle_death_gamble_scroll.name=Idle Death Gamble Scroll
+item.jjk.idle_death_gamble_scroll.lore1=A feverish scroll overflowing with reckless cursed luck.
+item.jjk.idle_death_gamble_scroll.lore2=Awakens jackpot-based combat and gambling fever.
+
+item.jjk.ratio_scroll.name=Ratio Technique Scroll
+item.jjk.ratio_scroll.lore1=A scroll marked with the precise 7:3 weak point ratio.
+item.jjk.ratio_scroll.lore2=Awakens devastating critical strikes and precision attacks.
+
+item.jjk.boogie_woogie_scroll.name=Boogie Woogie Scroll
+item.jjk.boogie_woogie_scroll.lore1=A rhythm-infused scroll that warps battlefield positions.
+item.jjk.boogie_woogie_scroll.lore2=Awakens instant swaps and trick movement.
+
+item.jjk.cursed_speech_scroll.name=Cursed Speech Scroll
+item.jjk.cursed_speech_scroll.lore1=A forbidden scroll sealed with overwhelming commands.
+item.jjk.cursed_speech_scroll.lore2=Awakens speech-based cursed commands at a cost.
+
+item.jjk.idle_transfiguration_scroll.name=Idle Transfiguration Scroll
+item.jjk.idle_transfiguration_scroll.lore1=A twisted scroll that distorts the shape of the soul.
+item.jjk.idle_transfiguration_scroll.lore2=Awakens mutation, transformation, and lethal soul manipulation.
+
+item.jjk.heavenly_restriction_scroll.name=Heavenly Restriction Scroll
+item.jjk.heavenly_restriction_scroll.lore1=A vow-forged scroll representing power without cursed energy.
+item.jjk.heavenly_restriction_scroll.lore2=Awakens immense physical power and anti-sorcerer traits.

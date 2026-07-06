@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jjk:limitless_scroll",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": "limitless_scroll",
+      "minecraft:display_name": {
+        "value": "item.jjk.limitless_scroll.name"
+      },
+      "minecraft:rarity": "legendary",
+      "minecraft:lore": [
+        "item.jjk.limitless_scroll.lore1",
+        "item.jjk.limitless_scroll.lore2"
+      ]
+    }
+  }
+}

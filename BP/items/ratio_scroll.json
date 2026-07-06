@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jjk:ratio_scroll",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": "ratio_scroll",
+      "minecraft:display_name": {
+        "value": "item.jjk.ratio_scroll.name"
+      },
+      "minecraft:rarity": "uncommon",
+      "minecraft:lore": [
+        "item.jjk.ratio_scroll.lore1",
+        "item.jjk.ratio_scroll.lore2"
+      ]
+    }
+  }
+}

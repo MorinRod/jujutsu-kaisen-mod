@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jjk:cursed_speech_scroll",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": "cursed_speech_scroll",
+      "minecraft:display_name": {
+        "value": "item.jjk.cursed_speech_scroll.name"
+      },
+      "minecraft:rarity": "rare",
+      "minecraft:lore": [
+        "item.jjk.cursed_speech_scroll.lore1",
+        "item.jjk.cursed_speech_scroll.lore2"
+      ]
+    }
+  }
+}

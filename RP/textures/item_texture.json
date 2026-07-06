@@ -1,0 +1,39 @@
+{
+  "resource_pack_name": "JJK: Sorcery Awakening RP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "sorcerer_manual": {
+      "textures": "textures/items/sorcerer_manual"
+    },
+    "limitless_scroll": {
+      "textures": "textures/items/limitless_scroll"
+    },
+    "shrine_scroll": {
+      "textures": "textures/items/shrine_scroll"
+    },
+    "ten_shadows_scroll": {
+      "textures": "textures/items/ten_shadows_scroll"
+    },
+    "blood_manipulation_scroll": {
+      "textures": "textures/items/blood_manipulation_scroll"
+    },
+    "idle_death_gamble_scroll": {
+      "textures": "textures/items/idle_death_gamble_scroll"
+    },
+    "ratio_scroll": {
+      "textures": "textures/items/ratio_scroll"
+    },
+    "boogie_woogie_scroll": {
+      "textures": "textures/items/boogie_woogie_scroll"
+    },
+    "cursed_speech_scroll": {
+      "textures": "textures/items/cursed_speech_scroll"
+    },
+    "idle_transfiguration_scroll": {
+      "textures": "textures/items/idle_transfiguration_scroll"
+    },
+    "heavenly_restriction_scroll": {
+      "textures": "textures/items/heavenly_restriction_scroll"
+    }
+  }
+}
